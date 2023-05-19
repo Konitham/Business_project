@@ -1,0 +1,85 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Dunlap Hubbard",
+      "gender": "male",
+      "email": "dunlaphubbard@cedward.com",
+      "password": "abcdef",
+      "phone": "+1 (890) 543-2508"
+    },
+    {
+      "id": 2,
+      "name": "kk",
+      "gender": "male",
+      "email": "dunlaphubbard@gmail.com",
+      "password": "abdef",
+      "phone": "+1 (890) 543-2708"
+    },
+    {
+      "id": 3,
+      "name": "Dunlap bard",
+      "gender": "male",
+      "email": "dunlbard@cedward.com",
+      "password": "abcdf",
+      "phone": "+1 (890) 583-2508"
+    },
+    {
+      "name": "",
+      "gender": "",
+      "emailid": "",
+      "password": "",
+      "phoneno": "",
+      "id": 4
+    },
+    {
+      "name": "Konitham Sri Krishna",
+      "gender": "Female",
+      "emailid": "dkfihv",
+      "password": "vfv",
+      "phoneno": "45",
+      "id": 5
+    },
+    {
+      "name": "Konitham Sri Krishna",
+      "gender": "Male",
+      "emailid": "jh",
+      "password": "knk",
+      "phoneno": "bbjbj",
+      "id": 6
+    },
+    {
+      "name": "Sai Krishna",
+      "gender": "Male",
+      "emailid": "gongpdnf",
+      "password": "fbbbbbn",
+      "phoneno": "97776",
+      "id": 7
+    },
+    {
+      "name": "venkatesh",
+      "gender": "",
+      "emailid": "gg@gmail.com",
+      "password": "123456",
+      "phoneno": "9553215507",
+      "id": 8
+    },
+    {
+      "name": "",
+      "gender": "",
+      "emailid": "",
+      "password": "hfhgh",
+      "phoneno": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "gender": "",
+      "emailid": "",
+      "password": "",
+      "phoneno": "",
+      "id": 10
+    }
+  ]
+}
+

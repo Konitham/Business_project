@@ -1,0 +1,74 @@
+.menu-item-card {
+    border-radius: 16px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+}
+.menu-card-title {
+    color: #6ad91b;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 800;
+    margin-top: 24px;
+    text-align: center;
+}
+.menu-item-image {
+    border-radius: 16px;
+    height: 270px;
+    width: 283px;
+    
+
+}
+.demo {
+    height: 100vh; 
+    width: 1200px;
+    margin: 0 auto;  
+  }
+  
+  .demo-card{
+    background: linear-gradient(132deg, rgb(141, 137, 230) 0%, rgb(71, 71, 147) 0%, rgba(0,212,255,1) 100%);
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px -15px rgba(0,0,0,0.62);  
+    height:350px;
+    width:300px;  
+  }
+  /* ===== FOR DEMO ===== */
+  
+  /* ===== MAIN CODE ===== */
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    pointer-events: none;
+    transition: all 0.4s;
+  }
+  
+  .card-hghlght {
+    pointer-events: auto;
+    transform: scale(1);
+    transition: all 0.4s;
+  }
+  
+  .card-hghlght:hover {
+    opacity: 1;
+    transform: scale(1.02);
+  }
+  
+  .content:hover .card-hghlght:not(:hover) {
+    opacity: 0.5;
+    transform: scale(0.9);
+  }
+  .container {
+    background-color: rgb(243, 239, 148);
+    color: rgb(210, 182, 222);
+    background-size: contain;
+   
+  }
+  .title {
+    font-size: 60px;
+  }
+  .food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
